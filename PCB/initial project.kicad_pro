@@ -539,7 +539,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "../../../Downloads/initial project.stl",
+      "step": "../../../Downloads/initial project-final.stl",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -682,7 +682,7 @@
         "uuid": "241c5874-dab2-4ae1-ae18-056cb8283303"
       }
     ],
-    "used_designators": "U1-2,SW1-6,D1-6,#PWR1-7,C1-7",
+    "used_designators": "U1-2,SW1-6,D1-6,#PWR1-8,C1-7",
     "variants": []
   },
   "sheets": [
