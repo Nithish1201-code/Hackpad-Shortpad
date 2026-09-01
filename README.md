@@ -70,19 +70,19 @@ I also enabled VIA so the macropad can be configured through software instead of
 
 This project ended up being a pretty good crash course in hardware development. I learned, or am still learning, things like:
 
-| Area                                                                                         |   |
-| -------------------------------------------------------------------------------------------- | - |
-| KiCad and PCB design                                                                         |   |
-| PCB routing                                                                                  |   |
-| electronics and component selection                                                          |   |
-| QMK and VIA                                                                                  |   |
-| I2C and OLED displays                                                                        |   |
-| addressable RGB LEDs                                                                         |   |
-| CAD and 3D modelling                                                                         |   |
-| Tinkercad                                                                                    |   |
-| 3D printing                                                                                  |   |
-| Gerber and other production files                                                            |   |
-| designing around a microcontroller and making the different parts of a project work together |   |
+| Area                                                                                         | 
+| -------------------------------------------------------------------------------------------- | 
+| KiCad and PCB design                                                                         | 
+| PCB routing                                                                                  | 
+| electronics and component selection                                                          | 
+| QMK and VIA                                                                                  | 
+| I2C and OLED displays                                                                        | 
+| addressable RGB LEDs                                                                         | 
+| CAD and 3D modelling                                                                         | 
+| Tinkercad                                                                                    | 
+| 3D printing                                                                                  | 
+| Gerber and other production files                                                            | 
+| designing around a microcontroller and making the different parts of a project work together | 
 
 I'm definitely not an expert in all of these yet, especially QMK and complited stuff like that, but that was kinda the point. I wanted to actually build something instead of waiting until I knew everything first, and this gave me a reason to learn a lot of new things along the way.
 
