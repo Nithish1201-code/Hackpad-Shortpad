@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Nithish",
+    "keyboard_name": "hackpad_6key",
+    "maintainer": "Nithish",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": false,
+        "nkro": true,
+        "via": true,
+        "rgblight": true
+    },
+    "matrix_pins": {
+        "direct": [
+            ["GP3", "GP4", "GP2", "GP1", "GP0", "GP29"]
+        ]
+    },
+    "matrix_size": {
+        "rows": 1,
+        "cols": 6
+    },
+    "processor": "RP2040",
+    "board": "GENERIC_RP_RP2040",
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0006",
+        "device_version": "1.0.0"
+    },
+    "ws2812": {
+        "pin": "GP26",
+        "driver": "vendor"
+    },
+    "rgblight": {
+        "led_count": 6,
+        "animations": {
+            "static_light": true,
+            "breathing": true,
+            "rainbow_mood": true,
+            "rainbow_swirl": true
+        }
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0, "label": "SW1"},
+                {"matrix": [0, 1], "x": 1, "y": 0, "label": "SW2"},
+                {"matrix": [0, 2], "x": 2, "y": 0, "label": "SW3"},
+                {"matrix": [0, 3], "x": 3, "y": 0, "label": "SW4"},
+                {"matrix": [0, 4], "x": 4, "y": 0, "label": "SW5"},
+                {"matrix": [0, 5], "x": 5, "y": 0, "label": "SW6"}
+            ]
+        }
+    }
+}
