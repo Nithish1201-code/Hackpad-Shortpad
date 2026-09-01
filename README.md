@@ -32,7 +32,8 @@ The main goal was honestly just to get a feel for the whole process. Before star
 | Screws           |        4 | M3 × 16 mm                                   |
 | 3D-printed Case  |        1 | Custom case split into top and bottom pieces |
 
-<img width="917" height="629" alt="image" src="https://github.com/user-attachments/assets/e9394aaa-b3e4-444f-b9b6-dc20d00e9d3e" />
+<img width="1560" height="843" alt="image" src="https://github.com/user-attachments/assets/55b120fb-256b-47d6-9ec5-d737b26144ba" />
+
 
 
 ## PCB Design
