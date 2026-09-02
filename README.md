@@ -1,4 +1,4 @@
-# Hackpad — ShortPad
+# ShortPad
 
 6-key macropad with an OLED display and RGB LEDs built around a Seeed XIAO RP2040. I made this for Hack Club Stardance because I wanted to build my first proper PCB and get some hands-on experience with electronics, CAD, firmware, and basically the whole process of making a hardware project. I also wanted to earn some Stardust, so getting to learn all of this while working toward something useful felt like a pretty good opportunity.
 
