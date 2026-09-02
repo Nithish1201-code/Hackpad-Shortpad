@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Exclude from Simulation","Exclude from Position Files","Footprint","Datasheet"
+"C2,C3,C4,C5,C6,C7","6","100n","","","","","${EXCLUDE_FROM_POS_FILES}","Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder",""
+"D1,D2,D3,D4,D5,D6","6","SK6812MINI-E","","","","","${EXCLUDE_FROM_POS_FILES}","kicad-keyboard-parts.pretty-master:MX_SK6812MINI-E","https://cdn-shop.adafruit.com/product-files/4960/4960_SK6812MINI-E_REV02_EN.pdf"
+"SW1,SW3,SW4,SW5,SW6","5","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB_1.00u",""
+"SW2","1","SW_Push","","","","","${EXCLUDE_FROM_POS_FILES}","PCM_Switch_Keyboard_Cherry_MX:SW_Cherry_MX_PCB",""
+"U1","1","MOUDLE-SEEEDUINO-XIAO","","","","","${EXCLUDE_FROM_POS_FILES}","footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM",""
+"U2","1","ER_OLEDM0.91_1x-I2C","","","","","${EXCLUDE_FROM_POS_FILES}","Display:ER_OLEDM0.91_1x-I2C","https://www.buydisplay.com/download/manual/ER-OLEDM0.91-1_Datasheet.pdf"
